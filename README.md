@@ -1,4 +1,6 @@
-# Student App
+# Student App : -
+
+SERVER LINK - https://github.com/Mohanmanuhs/student-server
 
 This is a student app developed using Android Studio and following the MVVM architecture pattern. It utilizes various modern technologies and tools including DataStore, Dagger Hilt for dependency injection, Ktor client for networking with REST API, and Jetpack Compose for UI development.
 
